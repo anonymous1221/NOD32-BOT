@@ -243,11 +243,11 @@ function create_config( )
     "filterword",
     "lock_join"
     },
-    sudo_users = {142314165},--Sudo users
+    sudo_users = {177168187},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
-https://github.com/BH-YAGHI/NOD32-BOT.git
+https://github.com/anonymous1221/mahdi000.git
 
 channel : @Nod32team
 sodu : @behrooZyaghi
